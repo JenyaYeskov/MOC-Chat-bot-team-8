@@ -1,0 +1,28 @@
+{
+  "name": "moc-chat-bot-team-8",
+  "version": "0.0.1",
+  "description": "Masters Academy Coding Camp 2017",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anton-Loginov/MOC-Chat-bot-team-8.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Anton-Loginov/MOC-Chat-bot-team-8/issues"
+  },
+  "homepage": "https://github.com/Anton-Loginov/MOC-Chat-bot-team-8#readme",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.27.1",
+    "gulp": "^3.9.1",
+    "gulp-imagemin": "^3.1.1"
+  },
+  "devDependencies": {
+    "gulp-minify": "^1.0.0",
+    "gulp-uglify": "^2.1.2"
+  }
+}
